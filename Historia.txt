@@ -3,7 +3,7 @@ Esta es la historia de Kevin Eugenio
 Kevin tiene 26 años y nacio en Mexico
 
 
-Kevin2 nace en el desarrollo del proyecto del curso de platzi de git y github
+Kevin3 nace en el desarrollo del proyecto del curso de platzi de git y github ahora se llama kevin 3 por que se creo todo desde 0 a partir del uso de FORK
 
 Mañana nos enfocaremos en su vida laboral
 
